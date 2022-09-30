@@ -17,8 +17,8 @@
     "@shopify/shopify-api": "^1.4.1",
     "apollo-boost": "^0.4.9",
     "graphql": "^15.5.0",
-    "ioredis": "^4.27.6",
-    "next": "11.x",
+    "ioredis": "^4.27.8",
+    "next": "12.1.0",
     "react": "17.x",
     "react-apollo": "^3.1.5",
     "react-dom": "17.x"

@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@shopify/admin-graphql-api-utilities": "^1.0.1",
-    "@shopify/app-bridge": "^2.0.3",
+    "@shopify/app-bridge": "^2.2.0",
     "@shopify/app-bridge-react": "^2.0.3",
     "@shopify/app-bridge-utils": "^2.0.3",
     "@shopify/polaris": "^6.5.0",
